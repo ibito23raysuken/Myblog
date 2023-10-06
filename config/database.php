@@ -68,7 +68,7 @@ return [
             'url' => env('DATABASE_URL'),
             'host' => env('DB_HOST','10.204.20.51'),
             'port' => env('DB_PORT', '5432'),
-            'database' => env('DB_DATABASE', 'myblog_y1sk'),
+            'database' => env('DB_DATABASE'),
             'username' => env('DB_USERNAME', 'myblog_y1sk_user'),
             'password' => env('DB_PASSWORD', 'Os4yjqFSOAH1OZYIbaz4iyUgcxvhYqUU'),
             'charset' => 'utf8',
