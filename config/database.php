@@ -70,7 +70,7 @@ return [
             'port' => env('DB_PORT', '5432'),
             'database' => env('DB_DATABASE', 'forge'),
             'username' => env('DB_USERNAME', 'myblog_y1sk_user'),
-            'password' => env('DB_PASSWORD', 'Os4yjqFSOAH1OZYIbaz4iyUgcxvhYqUU'),
+            'password' => env('DB_PASSWORD', 'myblog_y1sk_user'),
             'charset' => 'utf8',
             'prefix' => '',
             'prefix_indexes' => true,
